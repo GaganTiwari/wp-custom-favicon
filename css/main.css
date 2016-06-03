@@ -1,0 +1,54 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 7 Apr, 2016, 12:15:01 AM
+    Author     : gagan
+*/
+
+.wp_cfav_left{
+    width: 78%;
+    float: left;
+}
+.wp_cfav_right{
+    width: 21%;
+    float: right;
+    margin-top: 38px;
+}
+td.version_top{
+    text-align: center;
+}
+td.save_button{
+    text-align: right;
+    background: rgb(245, 245, 245) none repeat scroll 0% 0%;
+    border-top: 1px solid #E6E6E6;
+}
+table.form-table{
+background: #FFF none repeat scroll 0% 0%;
+border: 1px solid #E5E5E5;
+box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.04);
+}
+table.form-table tr th{
+    background: rgba(242, 242, 242, 0.67) none repeat scroll 0% 0%;
+    padding-left:10px;
+    border-right: 1px solid #E6E6E6;
+}    
+table.form-table tr{
+    border-bottom: 1px solid #E6E6E6;
+}
+img.preview-upload{
+    max-width: 101px !important;
+    margin: 13px 32px 0px;
+}
+.wp_cfav_left h2{
+    font-size: 10px;
+}
+table.developer_tab{
+    margin-top:25px;
+}
+table.developer_tab tr:first-child td{
+    border-bottom: 1px solid #E6E6E6;
+    background: rgb(245, 245, 245) none repeat scroll 0% 0%;
+}
